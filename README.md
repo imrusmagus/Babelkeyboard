@@ -5,6 +5,8 @@ A macOS menu bar app that draws your keyboard exactly as it lights up in the dar
 
 <img width="1191" height="610" alt="Képernyőfotó 2026-09-19 - 17 58 42" src="https://github.com/user-attachments/assets/99e99991-5362-40cf-a468-687757bbe79d" />
 
+
+
 A macOS menu bar app that draws your keyboard exactly as it lights up in the dark — and shows you every hidden **Shift**, **Option**, and **Shift+Option** symbol on it, so you never have to Google "how do I type €" again.
 
 ## Why
